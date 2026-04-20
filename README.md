@@ -18,7 +18,7 @@ Dự án này thực hiện việc tích hợp xác thực người dùng thông
 1. **Clone mã nguồn từ GitHub:**
    ```bash
    git clone 
-   cd my-login
+   cd My_login
    ```
 
 2. **Cài đặt các thư viện phụ thuộc:**
